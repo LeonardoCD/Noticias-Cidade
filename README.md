@@ -6,8 +6,7 @@
 
 ## :bookmark: About
 
-<strong>TecBlog</strong> is a fictional layout of a news site.
-.
+<strong>Notícias Cidade</strong> is a fictional layout of a news site.
 
 <a id="technologies-used"></a>
 
